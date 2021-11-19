@@ -23,6 +23,8 @@
 #    include "5x6_right.h"
 #elif defined(KEYBOARD_handwired_tractyl_manuform_4x6_right)
 #    include "4x6_right.h"
+#elif defined(KEYBOARD_handwired_tractyl_manuform_5x5_right)
+#    include "5x5_right.h"
 #endif
 
 typedef union {
